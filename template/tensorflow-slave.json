@@ -6,7 +6,7 @@
     "creationTimestamp": null,
     "annotations": {
       "description": "tensorflow Slave",
-      "iconClass": "icon-angularjs",
+      "iconClass": "icon-phalcon",
       "tags": "tensorflow"
     }
   },
